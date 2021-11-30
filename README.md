@@ -4,6 +4,7 @@
 
 # How?
 > 根据acf文件筛选已经卸载了的游戏已经软件，清理其余留的垃圾文件
+
 > Based on the ACF file filtrate the uninstalled games and software, clean up the junk files.
 
 # Install
